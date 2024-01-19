@@ -3,12 +3,18 @@ Customer segmentation is the process of dividing a company's customers into grou
 
 Customer segmentation can help marketing and sales teams reach out to customers more effectively. It can also help personalize marketing, service, and sales efforts to the needs of specific groups.
 
-Customer segmentation can help with: 
+Customer segmentation can help with:-
+
 (i) Identifying ways to improve products or new product or service opportunities
+
 (ii) Establishing better customer relationships
+
 (iii) Testing pricing options
+
 (iv) Focusing on the most profitable customers
+
 (v) Improving customer service
+
 (vi) Upselling and cross-selling other products and services
 
 Some examples of characteristics that can be used for customer segmentation include:- 
